@@ -1,4 +1,4 @@
-from A4a import Time
+from Answer4a import Time
 
 # פונקציה להמרת קלט למספרים שלמים עבור שעה ודקות
 def get_time_input(prompt):
